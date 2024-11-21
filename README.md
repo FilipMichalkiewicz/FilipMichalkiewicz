@@ -11,7 +11,7 @@ const filip = {
   frontend: ['React', 'CSS3', 'SASS', 'HTML5', 'HTMX'],
   backend: ['Node.js', 'Nginx', 'Express', 'Spring', 'PHP', 'Flask', 'Deno'],
   fullstack: ['Remix'],
-  database: ['MongoDB', 'PostgreSQL', 'MySQL'],
+  database: ['MongoDB', 'PostgreSQL', 'MariaDB'],
   design: ['Figma', 'Adobe Ilustrator', 'Adobe Photoshop'],
   devops: ['Docker', 'AWS', 'GCP'],
   testing: ['Jest'],
