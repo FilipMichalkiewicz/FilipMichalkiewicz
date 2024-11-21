@@ -9,7 +9,8 @@ Welcome to my digital playground! I'm on a mission to blend technology and aesth
 ```javascript
 const filip = {
   frontend: ['React', 'CSS3', 'SASS', 'HTML5', 'HTMX'],
-  backend: ['Node.js', 'Nginx', 'Express', 'Spring', 'PHP'],
+  backend: ['Node.js', 'Nginx', 'Express', 'Spring', 'PHP', 'Flask', 'Deno'],
+  fullstack: ['Remix'],
   database: ['MongoDB', 'PostgreSQL', 'MySQL'],
   design: ['Figma', 'Adobe Ilustrator', 'Adobe Photoshop'],
   devops: ['Docker', 'AWS', 'GCP'],
