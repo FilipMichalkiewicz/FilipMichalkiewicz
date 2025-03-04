@@ -15,7 +15,6 @@ const filip = {
   design: ['Figma', 'Adobe Ilustrator', 'Adobe Photoshop'],
   devops: ['Docker', 'AWS', 'GCP'],
   testing: ['Jest'],
-  currentlyLearning: ['RabbitMQ'],
   askMeAbout: ['web dev', 'tech', 'app design', 'system design']
 }
 ```
