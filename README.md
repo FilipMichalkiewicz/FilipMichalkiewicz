@@ -13,8 +13,9 @@ const filip = {
   fullstack: ['Remix'],
   database: ['MongoDB', 'PostgreSQL', 'MariaDB'],
   design: ['Figma', 'Adobe Ilustrator', 'Adobe Photoshop'],
-  devops: ['Docker', 'AWS', 'GCP'],
-  testing: ['Jest'],
+  devops: ['Docker'],
+  cloud: ['AWS', 'GCP', 'DigitalOcean'],
+  testing: ['Jest', 'Postman'],
   askMeAbout: ['web dev', 'tech', 'app design', 'system design']
 }
 ```
